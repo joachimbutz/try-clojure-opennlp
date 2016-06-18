@@ -1,6 +1,7 @@
 /target
 /classes
 /checkouts
+/models
 pom.xml
 pom.xml.asc
 *.jar
@@ -9,3 +10,6 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+/bin/
+.classpath
+.project
